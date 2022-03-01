@@ -1,0 +1,6 @@
+this is the video portion of the js project.
+
+it is currently standalone, and needs to be merged.
+
+
+will merge the concept with react.js framework for aestitic.
